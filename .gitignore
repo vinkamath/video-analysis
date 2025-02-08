@@ -1,0 +1,6 @@
+env/
+.env
+*.ipynb_checkpoints
+data/output/*
+*.pyc
+.DS_Store
